@@ -6,7 +6,6 @@ I took some interest in python and c# later on when I was 11.
 
 and started ReactJS and NextJS when I was 13
 
-I have never worked on a team project with other developers and I look forward to it.
 
 
 
